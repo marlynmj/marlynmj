@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marlynmj
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning cakephp
+- 🌱 I’m currently learning JavaScript Full Stack
 - 📫 How to reach me marlynmj22@gmail.com
 
 <!---
